@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="qf-shop-user-api" />
+        <module name="qf-shop-staticresources-service" />
+        <module name="qf-shop-mapper" />
+        <module name="qf-shop-product-api" />
+        <module name="qf-shop-common" />
+        <module name="qf-shop-sso" />
+        <module name="qf-shop-sms-service" />
+        <module name="qf-shop-service" />
+        <module name="qf-shop-email-service" />
+        <module name="qf-shop-user-service" />
+        <module name="qf-shop-product-service" />
+        <module name="qf-shop-web" />
+        <module name="qf-shop-resources-api" />
+        <module name="qf-shop-index-service" />
+        <module name="qf-shop-search" />
+        <module name="qf-shop-product-type-api" />
+        <module name="qf-shop-cart" />
+        <module name="qf-shop-product" />
+        <module name="qf-shop-index" />
+        <module name="qf-shop-cart-service" />
+        <module name="qf-shop-entity" />
+        <module name="qf-shop-search-api" />
+        <module name="qf-shop-search-service" />
+        <module name="qf-shop-cart-api" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="qf-shop-product-api" target="1.5" />
+      <module name="qf-shop-service" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="qf-shop-cart" options="-parameters" />
+      <module name="qf-shop-cart-service" options="-parameters" />
+      <module name="qf-shop-email-service" options="-parameters" />
+      <module name="qf-shop-index" options="-parameters" />
+      <module name="qf-shop-index-service" options="-parameters" />
+      <module name="qf-shop-product" options="-parameters" />
+      <module name="qf-shop-product-service" options="-parameters" />
+      <module name="qf-shop-search" options="-parameters" />
+      <module name="qf-shop-search-service" options="-parameters" />
+      <module name="qf-shop-sms-service" options="-parameters" />
+      <module name="qf-shop-sso" options="-parameters" />
+      <module name="qf-shop-staticresources-service" options="-parameters" />
+      <module name="qf-shop-user-service" options="-parameters" />
+    </option>
+  </component>
+</project>

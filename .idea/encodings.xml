@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/qf-shop-service/qf-shop-cart-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/qf-shop-service/qf-shop-email-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/qf-shop-service/qf-shop-index-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/qf-shop-service/qf-shop-product-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/qf-shop-service/qf-shop-search-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/qf-shop-service/qf-shop-sms-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/qf-shop-service/qf-shop-staticresources-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/qf-shop-service/qf-shop-user-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/qf-shop-web/qf-shop-cart/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/qf-shop-web/qf-shop-index/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/qf-shop-web/qf-shop-product/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/qf-shop-web/qf-shop-search/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/qf-shop-web/qf-shop-sso/src/main/java" charset="UTF-8" />
+  </component>
+</project>
